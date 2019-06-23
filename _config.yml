@@ -1,5 +1,5 @@
-title:            Doe
-description:      
+title:            The Forest
+description:      The place where doe lives. "Of course it is happening inside your head, Harry, but why on earth should that mean that it is not real?"
 disqus_shortname: doe
 reading_time:     true
 words_per_minute: 200
@@ -11,7 +11,7 @@ url:
 owner:
   name:           Doe
   avatar:         avatar.jpg
-  bio:            "Hi, there."
+  bio:            "Hi, there. I'm Doe. This is just a place to share the things I love, my thoughts, and ... everything else. Thanks and enjoy."
   email:          forest-doe/at/mail.com
   # Social networking links used in footer. Update and remove as you like.
   #twitter:        
