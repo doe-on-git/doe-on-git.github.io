@@ -14,14 +14,14 @@ owner:
   bio:            "Hi, there. I'm Doe. This is just a place to share the things I love, my thoughts, and ... everything else. Thanks and enjoy."
   email:          forest-doe/at/mail.com
   # Social networking links used in footer. Update and remove as you like.
-  #twitter:        
-  #facebook:       
-  github: https://github.com/doe-on-git         
-  #stackexchange:  
-  #linkedin:       
-  #instagram:      
-  #flickr:         
-  #tumblr:         
+  twitter:            
+  github: doe-on-git         
+  stackexchange:  
+  linkedin:       
+  instagram:      
+  flickr:         
+  tumblr: 
+  Douban:  tuerduo       
   # google plus id, include the '+', eg +mmistakes
   google_plus:
 

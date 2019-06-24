@@ -1,13 +1,18 @@
 ---
 layout: page
-title: About the Jekyll Theme
+title: About me and This Blog
 image:
-  feature: abstract-5.jpg
-  credit: dargadgetz
-  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
+  feature: foggy-forest.jpg
+  credit: flipwallpapers
+  creditlink: https://flipwallpapers.com/foggy-forest-wallpaper-1080p/foggy-forest-wallpaper-1080p-for-desktop-wallpaper/
 comments: false
-modified: 2016-02-01
+modified: 2019-06-24
 ---
+
+Hi, I'm Doe. Thanks for visiting my site and taking a moment to read my blogs. This blog is about the what I love, what I learned, and everything else. Please enjoy. 
+
+This blog is build by jekyll and host on github page. The original theme is at: https://github.com/mmistakes/hpstr-jekyll-theme.
+
 
 They say three times the charm, so here is another free responsive Jekyll blog theme for you. I've learned a ton since open sourcing my first two themes [on Github](http://github.com/mmistakes), and wanted to try a few new things this time around. 
 

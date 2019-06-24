@@ -1,4 +1,24 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-06-23T05:02:47-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">L for learning, L for love.</title><subtitle>L for learning, L for love.</subtitle><entry xml:lang="zh"><title type="html">Github新手向科普（It’s not just for geeks!）</title><link href="http://localhost:4000/Github%E6%96%B0%E6%89%8B%E5%90%91%E7%A7%91%E6%99%AE(It's-not-just-for-geeks!)/" rel="alternate" type="text/html" title="Github新手向科普（It's not just for geeks!）" /><published>2019-06-22T00:00:00-04:00</published><updated>2019-06-22T00:00:00-04:00</updated><id>http://localhost:4000/Github%E6%96%B0%E6%89%8B%E5%90%91%E7%A7%91%E6%99%AE(It's%20not%20just%20for%20geeks!)</id><content type="html" xml:base="http://localhost:4000/Github%E6%96%B0%E6%89%8B%E5%90%91%E7%A7%91%E6%99%AE(It's-not-just-for-geeks!)/">&lt;p&gt;A test about in-line math: &lt;script type=&quot;math/tex&quot;&gt;5 + 5&lt;/script&gt; $$ 5 + 5 $$&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-06-24T08:31:07-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">The Forest</title><subtitle>The place where doe lives. &quot;Of course it is happening inside your head, Harry, but why on earth should that mean that it is not real?&quot;</subtitle><entry xml:lang="zh"><title type="html">Github新手向科普（It’s not just for geeks!）</title><link href="http://localhost:4000/Github%E6%96%B0%E6%89%8B%E5%90%91%E7%A7%91%E6%99%AE(It's-not-just-for-geeks!)/" rel="alternate" type="text/html" title="Github新手向科普（It's not just for geeks!）" /><published>2019-06-22T00:00:00-04:00</published><updated>2019-06-22T00:00:00-04:00</updated><id>http://localhost:4000/Github%E6%96%B0%E6%89%8B%E5%90%91%E7%A7%91%E6%99%AE(It's%20not%20just%20for%20geeks!)</id><content type="html" xml:base="http://localhost:4000/Github%E6%96%B0%E6%89%8B%E5%90%91%E7%A7%91%E6%99%AE(It's-not-just-for-geeks!)/">&lt;h2 id=&quot;github是什么能&quot;&gt;Github是什么？（能？）&lt;/h2&gt;
+
+&lt;p&gt;GitHub最初是为开发者所创建的社区。在这里，程序员们可以进行代码的版本控制与协同工作。但如今，许多的非程序员们也将GitHub作为其创作平台，享受它管理项目与合作的便利。正如GitHub官方所说，GitHub是一个为所有“知识工作者”（knowledge worker）所提供的工具。&lt;/p&gt;
+
+&lt;p&gt;与其他的网络平台相比，GitHub更像是一个工具箱。它没有所谓的“正确”玩法，如何利用它来做自己想做的事，一切都靠想象力。推荐一些很有趣的非程序开发向GitHub repo：（repository 即仓库：用来管理项目。后文会有简单介绍）&lt;/p&gt;
+
+&lt;p&gt;Public Self ：作者的内心世界，他的三观（belief），他的生活准则（rule），他喜欢的思想等等。
+Travel Plan：作者所去过的地方以及想要去的地方。可以看到很多人在这里提出了旅行建议。
+The League of Moveable Type：一个开源的字体设计组织，目前有18个仓库。任何人都能够下载字体，并提出设计意见。
+A novel：一本完全利用GitHub写成的小说，已在amazon上架。任何人都能够提出修改建议，甚至基于此来写自己的小说。
+DC Law：Columbia州的法律，很多人在这里找typo。（不少国家和地区都把法律公开在了GitHub上。甚至于有人传了这个(you-know-what done by you-know-who)
+Organizing personal life：一个私人项目（private repo，仅自己可见）利用GitHub来管理自己的生活，如各种文件，照片，to-do list 等等。&lt;/p&gt;
+
+&lt;h2 id=&quot;如何使用github怎&quot;&gt;如何使用GitHub？（怎？）&lt;/h2&gt;
+
+&lt;p&gt;当然首先你需要一个账号。（大部分功能免费。对于在校学生来说还有student pack，有兴趣可以自行研究。）接下来要怎么做？满屏幕的不明词语令人头秃？不用担心啦，只要大概理解GitHub的工作流程，这只傲娇的Octocat也只是一只傲娇的喵星人而已。&lt;/p&gt;
+
+&lt;p&gt;下图是一张简要的github工作流程：
+人类1和人类2打算合作写一本小说。在写到第十章时，两人的思路发生了分歧，于是人类2创建了分支(branch)。但随后两人的故事实在无法融合，于是经过协商，他们决定从第十章重新开始写，于是将仓库滚回版本1.2。两人分别完成自己的部分后，将仓库融合(merge)。&lt;/p&gt;
+
+&lt;p&gt;A test about in-line math: &lt;script type=&quot;math/tex&quot;&gt;5 + 5&lt;/script&gt; $$ 5 + 5 $$&lt;/p&gt;
 
 &lt;p&gt;A test about formular:
 &lt;script type=&quot;math/tex&quot;&gt;% &lt;![CDATA[
@@ -142,7 +162,7 @@
 &lt;div&gt;&lt;a href=&quot;#&quot; class=&quot;btn btn-success&quot;&gt;Success Button&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;a href=&quot;#&quot; class=&quot;btn btn-warning&quot;&gt;Warning Button&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;a href=&quot;#&quot; class=&quot;btn btn-danger&quot;&gt;Danger Button&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;a href=&quot;#&quot; class=&quot;btn btn-info&quot;&gt;Info Button&lt;/a&gt;&lt;/div&gt;</content><author><name></name></author><category term="sample post" /><summary type="html">A test about in-line math: $$ 5 + 5 $$</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/abstract-3.jpg" /></entry><entry xml:lang="zh"><title type="html">Sample Post for latex formula</title><link href="http://localhost:4000/sample-post-%E4%B8%AD%E6%96%87%E6%94%AF%E6%8C%81/" rel="alternate" type="text/html" title="Sample Post for latex formula" /><published>2019-05-30T00:00:00-04:00</published><updated>2019-05-30T00:00:00-04:00</updated><id>http://localhost:4000/sample-post-%E4%B8%AD%E6%96%87%E6%94%AF%E6%8C%81</id><content type="html" xml:base="http://localhost:4000/sample-post-%E4%B8%AD%E6%96%87%E6%94%AF%E6%8C%81/">&lt;p&gt;A test about 中文支持.
+&lt;div&gt;&lt;a href=&quot;#&quot; class=&quot;btn btn-info&quot;&gt;Info Button&lt;/a&gt;&lt;/div&gt;</content><author><name></name></author><category term="sample post" /><summary type="html">Github是什么？（能？）</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/images/abstract-3.jpg" /></entry><entry xml:lang="zh"><title type="html">Sample Post for latex formula</title><link href="http://localhost:4000/sample-post-%E4%B8%AD%E6%96%87%E6%94%AF%E6%8C%81/" rel="alternate" type="text/html" title="Sample Post for latex formula" /><published>2019-05-30T00:00:00-04:00</published><updated>2019-05-30T00:00:00-04:00</updated><id>http://localhost:4000/sample-post-%E4%B8%AD%E6%96%87%E6%94%AF%E6%8C%81</id><content type="html" xml:base="http://localhost:4000/sample-post-%E4%B8%AD%E6%96%87%E6%94%AF%E6%8C%81/">&lt;p&gt;A test about 中文支持.
 这是我的第一篇中文博客。经过几个小时的调试，我终于搞定了Jekyll模板下的中文支持。这篇文章就是一个例子。我将在这篇博客中介绍具体的实现步骤。&lt;/p&gt;
 &lt;blockquote&gt;
   &lt;p&gt;苟利国家生死以，岂因祸福避趋之。&lt;br /&gt;
