@@ -12,7 +12,7 @@ owner:
   name:           Doe
   avatar:         avatar.jpg
   bio:            "Hi, there. I'm Doe. This is just a place to share the things I love, my thoughts, and ... everything else. Thanks and enjoy."
-  email:          forest-doe/at/mail.com
+  email:          forest-doe@mail.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:            
   github: doe-on-git         
