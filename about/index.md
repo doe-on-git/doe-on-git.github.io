@@ -6,32 +6,45 @@ image:
   credit: flipwallpapers
   creditlink: https://flipwallpapers.com/foggy-forest-wallpaper-1080p/foggy-forest-wallpaper-1080p-for-desktop-wallpaper/
 comments: false
-modified: 2019-06-24
+modified: 2019-06-28
 ---
 
-Hi, I'm Doe. Thanks for visiting my site and taking a moment to read my blogs. This blog is about the what I love, what I learned, and everything else. Please enjoy. 
+
+
+Hi, I'm Doe.
+
+Thanks for visiting my site and taking a moment to read my blogs. This blog is about the what I love, what I learned, and everything else. Please enjoy.
 
 This blog is build by jekyll and host on github page. The original theme is at: https://github.com/mmistakes/hpstr-jekyll-theme.
 
 
-They say three times the charm, so here is another free responsive Jekyll blog theme for you. I've learned a ton since open sourcing my first two themes [on Github](http://github.com/mmistakes), and wanted to try a few new things this time around. 
+### A List of things I love
 
-If you've used any of [my other themes](http://mademistakes.com/work/jekyll-themes/) most of this should be familiar territory...
+Music / Sound / Video I love to listen while concentrating:
+* [soundrown](http://soundrown.com/)
+* [Anciet Library Room](https://www.youtube.com/watch?v=IvJQTWGP5Fg)
+* [TheStrive Studies](https://www.youtube.com/channel/UCSQkQjPhnZw12Hj-SfsbX8w)
 
-## HPSTR Features:
+Podcast:
+* [Up First](https://www.npr.org/podcasts/510318/up-first)
+* [Hidden Brain](https://www.npr.org/podcasts/510308/hidden-brain)
+* [The Productivity Show](http://www.asianefficiency.com/podcast/)
 
-* Compatible with Jekyll 3 and GitHub Pages.
-* Responsive templates for post, page, and post index `_layouts`. Looks great on mobile, tablet, and desktop devices.
-* Gracefully degrades in older browsers. Compatible with Internet Explorer 8+ and all modern browsers.  
-* Sweet animated menu.
-* Background image support.
-* Support for large images to call out your favorite posts.
-* Optional [Disqus](http://disqus.com) comments.
-* Simple and clear permalink structure[^1].
-* [Open Graph](https://developers.facebook.com/docs/opengraph/) and [Twitter Cards](https://dev.twitter.com/docs/cards) support for a better social sharing experience.
-* [Custom 404 page]({{ site.url }}/404.html) to get you started.
-* [Syntax highlighting]({{ site.url }}/code-highlighting-post/) stylesheets to make your code examples look snazzy.
+Blog:
+* [普通读者](http://www.shiorireads.me/)
 
-<div markdown="0"><a href="{{ site.url }}/theme-setup/" class="btn btn-info">Theme Setup</a> <a href="https://github.com/mmistakes/hpstr-jekyll-theme" class="btn btn-success">Download HPSTR</a></div>
+Music Band:
+* Pink Floyd
+* Radiohead
+* Suede
+* Nirvana
+* Radwimps
+* Sekai No Owari
 
-[^1]: Example: *domain.com/category-name/post-title*
+アイドルグループ:
+* 嵐
+
+Fashion:
+* [beams](https://www.beams.co.jp/?sex=W)
+* [Adam et Rope](http://www.adametrope.com/)
+* [Todayful](https://zozo.jp/shop/todayful/)
