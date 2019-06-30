@@ -2,7 +2,7 @@
 layout: post
 title: 笔记： Positive Psychology Courses
 description: "
-Positive Psychology Courses笔记"
+Coursea 网站上 Foundiations of Positive Psychology Specialization 的笔记。理论部分忽略较多，主要记录我认为有意思，或可应用在平时生活里的知识。"
 modified: 2018-01-01
 lang: zh
 tags: [About Learning, Positive Psychology]
@@ -15,7 +15,7 @@ image:
 
 
 
-*Coursea 网站上 Foundiations of Positive Psychology Specialization 的笔记。理论部分忽略较多，主要记录我认为有意思，或可应用在平时生活里的知识。*
+*Coursea 网站上 (Foundiations of Positive Psychology Specialization)[https://www.coursera.org/specializations/positivepsychology] 的笔记。理论部分忽略较多，主要记录我认为有意思，或可应用在平时生活里的知识。*
 
 &nbsp;
 

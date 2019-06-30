@@ -3,6 +3,10 @@ layout: post
 title: Github新手向科普（It's not just for geeks!）
 description: "
 Github能怎好？除了用来管理代码，GitHub还能怎么玩？各种代码名词看起来很复杂？（也许它只是只傲娇的猫星人啦～"
+pagination:
+  data: collections
+  size: 1
+  alias: tag
 modified: 2019-06-22
 lang: zh
 tags: [About Learning, Git]
