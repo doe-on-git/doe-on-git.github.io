@@ -23,15 +23,9 @@ image:
 
 GitHub最初是为开发者所创建的社区。在这里，程序员们可以进行代码的版本控制与协同工作。但如今，许多的非程序员们也将GitHub作为其创作平台，享受它管理项目与合作的便利。正如GitHub官方所说，GitHub是一个为所有“知识工作者”（knowledge worker）所提供的工具。
 
-与其他的网络平台相比，GitHub更像是一个工具箱。它没有所谓的“正确”玩法，如何利用它来做自己想做的事，一切都靠想象力。推荐一些很有趣的非程序开发向GitHub repo：（repository 即仓库：用来管理项目。后文会有简单介绍）
+与其他的网络平台相比，GitHub更像是一个工具箱。它没有所谓的“正确”玩法，如何利用它来做自己想做的事，一切都靠想象力。
 
-* [Public Self](https://github.com/busterbenson/public)：作者的内心世界，他的三观（belief），他的生活准则（rule），他喜欢的思想等等。
-* [Travel Plan](https://github.com/dylanegan/travel)：作者所去过的地方以及想要去的地方。可以看到很多人在这里提出了旅行建议。
-* [The League of Moveable Type](https://github.com/theleagueof)：一个开源的字体设计组织，目前有18个仓库。任何人都能够下载字体，并提出设计意见。
-* [A novel](https://github.com/JJ/hoborg)：一本完全利用GitHub写成的小说，已在amazon上架。任何人都能够提出修改建议，甚至基于此来写自己的小说。
-* [DC Law](https://github.com/DCCouncil/dc-law-xml)：Columbia州的法律，很多人在这里找typo。（不少国家和地区都把法律公开在了GitHub上。甚至于有人传了这个([you-know-what done by you-know-who](https://github.com/mlouielu/cn_constitution_2018))
-* [Organizing personal life](https://dev.to/jpcs369/organizing-your-life-using-github-6an)：一个私人项目（private repo，仅自己可见）利用GitHub来管理自己的生活，如各种文件，照片，to-do list 等等。
-
+本文最后会推荐一些很有趣的非程序开发向GitHub repo：（repository 即仓库：用来管理项目。后文会有简单介绍），也许会有启发哦。
 
 ## 如何使用GitHub？（怎？）
 
@@ -74,6 +68,16 @@ GitHub还有一个诱人的功能，就是可以免费host自己的blog。不需
 缺点：
 1. 需要一点点时间来上手。（并不是学习代码，官方提供的git工具已经解放了命令行的使用。而是熟悉github的工作流程。）
 2. 与其他社交网站相比，它不适合用来catch up with friends。（可能更适合用来做一些深入的事情。）
+
+一些非开发向的repo推荐，可以参照上面的流程看看别人是如何使用的：
+
+* [Public Self](https://github.com/busterbenson/public)：作者的内心世界，他的三观（belief），他的生活准则（rule），他喜欢的思想等等。
+* [Travel Plan](https://github.com/dylanegan/travel)：作者所去过的地方以及想要去的地方。可以看到很多人在这里提出了旅行建议。
+* [The League of Moveable Type](https://github.com/theleagueof)：一个开源的字体设计组织，目前有18个仓库。任何人都能够下载字体，并提出设计意见。
+* [A novel](https://github.com/JJ/hoborg)：一本完全利用GitHub写成的小说，已在amazon上架。任何人都能够提出修改建议，甚至基于此来写自己的小说。
+* [DC Law](https://github.com/DCCouncil/dc-law-xml)：Columbia州的法律，很多人在这里找typo。（不少国家和地区都把法律公开在了GitHub上。甚至于有人传了这个([you-know-what done by you-know-who](https://github.com/mlouielu/cn_constitution_2018))
+* [Organizing personal life](https://dev.to/jpcs369/organizing-your-life-using-github-6an)：一个私人项目（private repo，仅自己可见）利用GitHub来管理自己的生活，如各种文件，照片，to-do list 等等。
+
 
 那么接下来？（what to go from here?）
 推荐一些教程：
